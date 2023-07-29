@@ -1,7 +1,7 @@
 defmodule SyncedState.MixProject do
   use Mix.Project
 
-  @version "0.0.1"
+  @version "0.0.2"
   @url "https://github.com/omginbd/synced_state"
 
   def project do
